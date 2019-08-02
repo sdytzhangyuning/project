@@ -2,8 +2,11 @@
 ●This project is a simple solution that does multiple storefronts, B2B eCommerce, and complex product catalogs. Whether you're a small business or a high volume ecommerce giant, you can rest easy that it is the feature-rich platform that won't limit you from scaling even larger. 
 
 Responsibilities:
+
 ●Developed the functionalities using Agile Scrum Methodology.
+
 ●Extensive experience in various Agile methodologies like Test Driven Development (TDD) .
+
 ●Involved in developing UI using Spring MVC framework, JSP,  HTML5, CSS, Javascript, JQuery,AJAX and AngularJS.
 ●Created Reusable Modules and Custom Directives in Angular2.0 which got used in various places of application.
 ●Implemented AngularJS Controllers to maintain each view data. Implemented Angular Service calls using Angular Factory tested all application controllers extensively with AngularJS built-in testing facilities.
